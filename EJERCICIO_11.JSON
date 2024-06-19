@@ -1,0 +1,42 @@
+{"PRODUCTOS": [
+    {"ID_PRODUCTO": 283, 
+    "NOMBRE": "GAFAS DE SOL",
+    "MARCA": "ACME", 
+    "DISPONIBLE": 20,
+    "PRECIO": 9800,
+    "TEMPORADA": "VERANO 2023",
+    "COLOR": "NEGRO",
+    "MARCO": "METAL"
+    },
+    {"ID_PRODUCTO": 191, 
+    "NOMBRE": "RELOJ DEPORTIVO",
+    "MARCA": "TIMBER", 
+    "DISPONIBLE": 2,
+    "PRECIO": 21400,
+    "COLOR": "PLATEADO",
+    "MATERIAL": "GOMA Y PLASTICO"
+    },
+    {"ID_PRODUCTO": 148, 
+    "NOMBRE": "JUEGO DE MEDIAS",
+    "MARCA": "PIECITO", 
+    "DISPONIBLE": 38,
+    "PRECIO": 500,
+    "COLOR": "VARIOS",
+    "MATERIAL": "ALGODON"
+    },
+    {"ID_PRODUCTO": 82, 
+    "NOMBRE": "CAMISETA SELECCION ARGENTINA",
+    "MARCA": "AGENTO", 
+    "DISPONIBLE": 11,
+    "PRECIO": 6800,
+    "TALLE": "L"
+    },
+    {"ID_PRODUCTO": 82, 
+    "NOMBRE": "CAMISETA SELECCION ARGENTINA",
+    "MARCA": "AGENTO", 
+    "DISPONIBLE": 15,
+    "PRECIO": 6800,
+    "TALLE": "M"
+    }
+]
+}
